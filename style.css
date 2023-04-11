@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
 * {
   padding: 0;
   margin: 0;
@@ -377,7 +379,7 @@ form {
 /* FOOTER */
 footer {
   background-color: #042c75;
-  height: 250px;
+  height: 280px;
   border: none;
   border-radius: 10px;
 }
